@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Recat-Movies_app/static/css/main.3b0a4cea.css",
+    "main.js": "/Recat-Movies_app/static/js/main.d0d42f07.js",
+    "index.html": "/Recat-Movies_app/index.html",
+    "main.3b0a4cea.css.map": "/Recat-Movies_app/static/css/main.3b0a4cea.css.map",
+    "main.d0d42f07.js.map": "/Recat-Movies_app/static/js/main.d0d42f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b0a4cea.css",
+    "static/js/main.d0d42f07.js"
+  ]
+}
